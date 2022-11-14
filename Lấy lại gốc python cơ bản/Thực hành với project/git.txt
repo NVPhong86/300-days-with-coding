@@ -1,0 +1,52 @@
+git and github
+Local Repository and Remote Repository
+
+git version
+
+Link giua Local va Remote
+git config --global user.name " Phong "
+git config --global user.mail " Phong@gmai.com "
+git config--list
+
+Tao Repo
+git init
+
+link 
+git remote add origin (url)
+
+2. Git clone : tai 1 remote repo tu github
+git clone (url)
+
+3. Git workflow
+4. git add file
+5. git commit-m"description message" 
+   git commit --amend-m"amend descriptive message" thay doi chu thich
+
+6. git push
+git push origin (branch_name)
+
+7. 
+git add .
+git commit-m"Anh dep tria'
+git commit --amend-m"Change H1 to H2"
+git push origin master
+
+8. git status
+git add .
+
+9. git diff : xem cac su thay doi giua cac commit
+git diff ... ....
+
+10. git log : list version history o current branch
+git log --online
+
+11. git reset
+git reset ten file.
+
+12. git clone (url) tenfile
+
+13. git fetch and pull
+
+
+
+
